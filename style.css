@@ -132,6 +132,23 @@ h2 {
     font-size: 14px;
 }
 
+/* ===== PROJECT TECH TAGS ===== */
+
+.tech-stack {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 10px 20px 15px;
+}
+
+.tech {
+    background-color: #2563eb;
+    color: white;
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 12px;
+}
+
 /* ===== LINKS ===== */
 
 a {
