@@ -119,6 +119,8 @@ h2 {
 
 /* ===== SKILLS ===== */
 
+/* ===== SKILLS ===== */
+
 .skills {
     display: flex;
     flex-wrap: wrap;
@@ -130,6 +132,17 @@ h2 {
     padding: 10px 18px;
     border-radius: 999px;
     font-size: 14px;
+}
+
+.skills-category {
+    margin-bottom: 30px;
+}
+
+.skills-category h3 {
+    color: #94a3b8;
+    margin-bottom: 12px;
+    font-size: 1.1rem;
+    font-weight: 600;
 }
 
 /* ===== PROJECT TECH TAGS ===== */
